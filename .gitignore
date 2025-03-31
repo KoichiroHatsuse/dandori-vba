@@ -1,0 +1,20 @@
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
+
+# VBA files
+*.vba
+*.vbs
+
+# Log files
+*.log
+
+# Temporary files
+~$*.xls*
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db 
